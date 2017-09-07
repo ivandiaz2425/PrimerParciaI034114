@@ -17,6 +17,13 @@
             android:id="@+id/Linear1"
             android:orientation="horizontal"
             android:layout_margin="10dp">
+            
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/person"
+
+                />
 
 
 
