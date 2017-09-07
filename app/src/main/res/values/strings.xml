@@ -6,4 +6,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt1">Jonathan Mideros</string>
+    <string name="txt2">Ingeniero de Sistemas</string>
+    <string name="txt3">jamideros@hotmail.com</string>
 </resources>
